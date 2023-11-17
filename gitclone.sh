@@ -27,7 +27,6 @@ git clone https://github.com/phoboslab/underrun
 git clone https://github.com/jaxry/colorful-life
 git clone https://github.com/copy/life
 git clone https://github.com/kiprobinson/chordomatic
-git clone https://github.com/mrcoles/javascript-piano
 git clone https://github.com/juliangarnier/3D-Hartwig-chess-set
 git clone https://github.com/kenrick95/c4
 git clone https://github.com/David20321/FTJ
@@ -82,7 +81,6 @@ git clone https://github.com/ddionisio/game-off-2013
 git clone https://github.com/AdamAtomic/Mode
 git clone https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone
 git clone https://github.com/EnclaveGames/Monster-Wants-Candy-demo
-git clone https://github.com/devnewton/newton_adventure
 git clone https://github.com/ogoshen/game-off-2012
 git clone https://github.com/lostdecade/onslaught_arena
 git clone https://github.com/mindd-it/pappu-pakia
@@ -106,13 +104,11 @@ git clone https://github.com/StrykerKKD/SpaceInvaders
 git clone https://github.com/martindrapeau/backbone-game-engine
 git clone https://github.com/scottschiller/SURVIVOR
 git clone https://github.com/jfd/wpilot
-git clone https://github.com/FullScreenShenanigans/FullScreenMario/
 git clone https://github.com/salvatorecapolupo/zedinvaders
 git clone https://github.com/mitallast/diablo-js
 git clone https://github.com/antionio/game-off-2013
 git clone https://github.com/CamHenlin/Roguish
 git clone https://github.com/mozilla/BrowserQuest
-git clone https://github.com/Tach-Yon/Tap-Tap-Adventure
 git clone https://github.com/FreezingMoon/AncientBeast
 git clone https://github.com/adityaravishankar/command-and-conquer
 git clone https://github.com/freeciv/freeciv-web
@@ -123,10 +119,6 @@ git clone https://github.com/lo-th/3d.city
 git clone https://github.com/CodeArtemis/TriggerRally
 git clone https://github.com/morozd/blk-game
 git clone https://github.com/Nurgak/Cube-engine
-git clone https://github.com/B-Train04/Project-Cube
-git clone https://github.com/Q42/0hn0
-git clone https://github.com/Q42/0hh1
-git clone https://github.com/gabrielecirulli/20483
 git clone https://github.com/doublespeakgames/adarkroom
 git clone https://github.com/binarymax/anagramica
 git clone https://github.com/wwwtyro/Astray
@@ -139,7 +131,6 @@ git clone https://github.com/adhicl/game-off-2012
 git clone https://github.com/mvasilkov/glitch2016
 git clone https://github.com/sharkdp/cube-composer
 git clone https://github.com/cxong/DrunkenViking
-git clone http://robotacid.com/flash/ending
 git clone https://github.com/gamedolphin/follow_me_javascript_simon_clone
 git clone https://github.com/AD1337/ForKingGame
 git clone https://github.com/DancingBanana/genetic-drift
@@ -150,7 +141,6 @@ git clone https://github.com/satanas/infectors
 git clone https://github.com/gamedolphin/Lost-Beneath-The-Surface
 git clone https://github.com/demonixis/Maze3D
 git clone https://github.com/antila/ludum-dare-28
-git clone https://github.com/devnewton/nedetlesmaki
 git clone https://github.com/bni/orbium
 git clone https://github.com/abejfehr/parity
 git clone https://github.com/Zolmeister/pond
